@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PrashantMaurya007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/PrashantMaurya007/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PrashantMaurya007/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PrashantMaurya007/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
