@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/PrashantMaurya007/LeetCode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/PrashantMaurya007/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
