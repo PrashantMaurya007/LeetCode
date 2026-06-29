@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/PrashantMaurya007/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PrashantMaurya007/LeetCode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrashantMaurya007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PrashantMaurya007/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/PrashantMaurya007/LeetCode/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
