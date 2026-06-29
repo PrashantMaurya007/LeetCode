@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/PrashantMaurya007/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/PrashantMaurya007/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrashantMaurya007/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrashantMaurya007/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrashantMaurya007/LeetCode/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
