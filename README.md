@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PrashantMaurya007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/PrashantMaurya007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/PrashantMaurya007/LeetCode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PrashantMaurya007/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/PrashantMaurya007/LeetCode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/PrashantMaurya007/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/PrashantMaurya007/LeetCode/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
