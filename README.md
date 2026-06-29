@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/PrashantMaurya007/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PrashantMaurya007/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrashantMaurya007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
