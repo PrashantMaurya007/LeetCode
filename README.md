@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PrashantMaurya007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
@@ -185,8 +186,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrashantMaurya007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
