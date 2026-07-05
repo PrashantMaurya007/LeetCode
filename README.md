@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PrashantMaurya007/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrashantMaurya007/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
