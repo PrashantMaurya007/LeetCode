@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/PrashantMaurya007/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/PrashantMaurya007/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/PrashantMaurya007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/PrashantMaurya007/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PrashantMaurya007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
