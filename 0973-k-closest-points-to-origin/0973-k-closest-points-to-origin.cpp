@@ -1,24 +1,29 @@
 class Solution {
 public:
-      vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        using ppi = pair<int, int>;
-        priority_queue<pair <int, ppi>> maxheap;
-        for (auto& point : points){
-            int a = point[0];
-            int b = point[1];
-            maxheap.push({a*a + b*b, {a, b} });
-            if (maxheap.size() > k) maxheap.pop();
-            
+    vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
+       priority_queue<pair<int,int>> max_heap;
+       int idx = 0;
+       for(auto& p : points){
+            int x_c = p[0];
+            int y_c = p[1];
+
+            long long dist = x_c * x_c + y_c * y_c;
+            max_heap.push({dist,idx});
+            idx++;
+            if(max_heap.size()>k){
+            max_heap.pop();
+            }
+
         }
-        for (int i = 0; i < k; i++){
-            auto [f, s] = maxheap.top();
-            points[i] = {s.first ,s.second};
-            maxheap.pop();
+
+        vector<vector<int>> res;
+
+        while(!max_heap.empty()){
+            res.push_back(points[max_heap.top().second]);
+            max_heap.pop();
         }
-        points.resize(k);
-        reverse(points.begin(), points.end());
-      
-        return points;
-      }
-      
+
+
+        return res;
+    }
 };
