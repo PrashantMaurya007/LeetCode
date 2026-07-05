@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/PrashantMaurya007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
+| [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/PrashantMaurya007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/PrashantMaurya007/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/PrashantMaurya007/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrashantMaurya007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 ## Matrix
 |  |
 | ------- |
@@ -178,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrashantMaurya007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
