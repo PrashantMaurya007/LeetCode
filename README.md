@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/PrashantMaurya007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/PrashantMaurya007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -203,9 +207,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
