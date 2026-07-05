@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
+| [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
