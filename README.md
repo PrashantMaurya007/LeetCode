@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/PrashantMaurya007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PrashantMaurya007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
+| [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PrashantMaurya007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrashantMaurya007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
