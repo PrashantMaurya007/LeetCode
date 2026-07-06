@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/PrashantMaurya007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PrashantMaurya007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 ## Linked List
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
