@@ -1,38 +1,91 @@
 class Twitter {
 public:
-    Twitter() {}
-    int count = 0;
-    unordered_map<int,vector<pair<int,int>>>m;
-    map<pair<int,int>,int>m1;
+
+    // userId -> {tweetId, timestamp}
+    map<int, vector<pair<int,int>>> mpp1;
+
+    // followerId -> list of followees
+    map<int, vector<int>> mpp2;
+
+    int time;
+
+    Twitter() {
+        // Global timestamp taaki latest tweet identify kar sake
+        time = 0;
+    }
+    
     void postTweet(int userId, int tweetId) {
-        m[userId].push_back({count,tweetId});
-        count++;
+        mpp1[userId].push_back({tweetId, time});
+
+        // Agle tweet ke liye timestamp increase
+        time++;
     }
     
     vector<int> getNewsFeed(int userId) {
-        unordered_set<int> v;
-        vector<pair<int,int>>v1;
-        vector<int>ans;
-        v.insert(userId);
-        for(auto i:m1){
-            if(i.first.first == userId && i.second>0) v.insert(i.first.second);
+        // Max heap: sabse latest timestamp wala tweet top par rahega
+        priority_queue<pair<int,int>> maxHeap;  // {timestamp, tweetId}
+
+        // Pehle user ke khud ke tweets heap me daalo
+        for(auto &tweet : mpp1[userId])
+        {
+            int tid = tweet.first;
+            int timestamp = tweet.second;
+
+            maxHeap.push({timestamp, tid});
         }
-        for(auto i:v){
-            v1.insert(v1.end(),m[i].begin(),m[i].end());
+
+        // User jin logon ko follow karta hai, unke tweets bhi heap me daalo
+        for(int followee : mpp2[userId])
+        {
+            for(auto &tweet : mpp1[followee])
+            {
+                maxHeap.push({tweet.second, tweet.first});
+            }
         }
-        sort(v1.rbegin(),v1.rend());
-        for(auto i:v1){
-            if (ans.size() == 10) break;
-            ans.push_back(i.second);
+
+        vector<int> res;
+
+        // Heap se latest 10 tweets nikal lo
+        while(!maxHeap.empty() && res.size() < 10)
+        {
+            res.push_back(maxHeap.top().second);
+            maxHeap.pop();
         }
-        return ans;
+
+        return res;
     }
     
     void follow(int followerId, int followeeId) {
-        m1[{followerId,followeeId}]++;
-    }
+        // Khud ko follow karne ki zarurat nahi
+        if(followerId == followeeId) return;
 
+        auto &vec = mpp2[followerId];
+
+        // Agar pehle se follow nahi kar raha, tabhi followee add karo
+        if(find(vec.begin(), vec.end(), followeeId) == vec.end())
+        {
+            vec.push_back(followeeId);
+        }
+    }
+    
     void unfollow(int followerId, int followeeId) {
-        if(m1[{followerId,followeeId}]) m1[{followerId,followeeId}]--;
+        auto it = mpp2.find(followerId);
+
+        if(it != mpp2.end())
+        {
+            auto& vec = it->second;
+
+            // Followee ko follow list se remove kar do
+            vec.erase(remove(vec.begin(), vec.end(), followeeId), vec.end());
+        }
     }
 };
+
+/**
+ * Your Twitter object will be instantiated and called as such:
+ * Twitter* obj = new Twitter();
+ * obj->postTweet(userId,tweetId);
+ * vector<int> param_2 = obj->getNewsFeed(userId);
+ * obj->follow(followerId,followeeId);
+ * obj->unfollow(followerId,followeeId);
+ */
