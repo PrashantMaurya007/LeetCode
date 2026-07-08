@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -161,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PrashantMaurya007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 ## Greedy
