@@ -10,14 +10,15 @@
  * };
  */
 class Solution {
-public: vector<int> inOrder(TreeNode* root, vector<int>& arr){
+public: vector<int> inOrder(TreeNode* root, vector<int>& v){
     if(!root){
-        return arr;
+        return v;
     }
-    inOrder(root->left,arr);
-    arr.push_back(root->val);
-    inOrder(root->right, arr);
-    return arr;
+    
+    inOrder(root->left,v);
+    v.push_back(root->val);
+    inOrder(root->right, v);
+    return v;
 }
 public:
     int kthSmallest(TreeNode* root, int k) {
