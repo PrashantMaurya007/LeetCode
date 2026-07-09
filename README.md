@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PrashantMaurya007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrashantMaurya007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrashantMaurya007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrashantMaurya007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/PrashantMaurya007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrashantMaurya007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/PrashantMaurya007/LeetCode/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrashantMaurya007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PrashantMaurya007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
