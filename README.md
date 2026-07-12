@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/PrashantMaurya007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/PrashantMaurya007/LeetCode/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/PrashantMaurya007/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/PrashantMaurya007/LeetCode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/PrashantMaurya007/LeetCode/tree/master/0622-design-circular-queue) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PrashantMaurya007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/PrashantMaurya007/LeetCode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0649-dota2-senate](https://github.com/PrashantMaurya007/LeetCode/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrashantMaurya007/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/PrashantMaurya007/LeetCode/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/PrashantMaurya007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/PrashantMaurya007/LeetCode/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/PrashantMaurya007/LeetCode/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
 | ------- |
