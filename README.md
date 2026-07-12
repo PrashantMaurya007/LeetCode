@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/PrashantMaurya007/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrashantMaurya007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrashantMaurya007/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/PrashantMaurya007/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantMaurya007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrashantMaurya007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PrashantMaurya007/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/PrashantMaurya007/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/PrashantMaurya007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PrashantMaurya007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -327,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PrashantMaurya007/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PrashantMaurya007/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
