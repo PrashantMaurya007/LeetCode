@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/PrashantMaurya007/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/PrashantMaurya007/LeetCode/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PrashantMaurya007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/PrashantMaurya007/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/PrashantMaurya007/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/PrashantMaurya007/LeetCode/tree/master/0695-max-area-of-island) |
 ## Counting
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/PrashantMaurya007/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0684-redundant-connection](https://github.com/PrashantMaurya007/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/PrashantMaurya007/LeetCode/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrashantMaurya007/LeetCode/tree/master/0067-add-binary) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/PrashantMaurya007/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
