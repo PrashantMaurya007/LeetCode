@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/PrashantMaurya007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
 | [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/PrashantMaurya007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/PrashantMaurya007/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/PrashantMaurya007/LeetCode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/PrashantMaurya007/LeetCode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/PrashantMaurya007/LeetCode/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/PrashantMaurya007/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/PrashantMaurya007/LeetCode/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/PrashantMaurya007/LeetCode/tree/master/0752-open-the-lock) |
+| [0994-rotting-oranges](https://github.com/PrashantMaurya007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PrashantMaurya007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
