@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/PrashantMaurya007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/PrashantMaurya007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/PrashantMaurya007/LeetCode/tree/master/1046-last-stone-weight) |
+| [1929-concatenation-of-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrashantMaurya007/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/PrashantMaurya007/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Graph Theory
 |  |
 | ------- |
